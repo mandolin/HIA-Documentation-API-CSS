@@ -1,0 +1,16 @@
+{
+  "site": "css-api",
+  "publicationRepository": "mandolin/HIA-Documentation-API-CSS",
+  "repository": "mandolin/HIA-Documentation",
+  "commit": "24bc65114e217669796ae6558ea2ca1352ddbcb6",
+  "registrySha256": "bca9ad4183f0b91f91c9851337fd69146c572edff9fba6baba0ea1f8c40b6be8",
+  "tag": "css-api-24bc651",
+  "asset": "css-api-24bc651.tar.gz",
+  "gzipSha256": "f4f78e4ec0a4d761f08c67a59def163e6d9279a5345df11cb44c908c21791fa7",
+  "tarSha256": "97a23cd15c2c19f79b7e7f369d59573ce788d250b884345cbf28704dddc9704b",
+  "tarBytes": 117094400,
+  "reportSha256": "beb148a997d872179cbac07e71a00d8421d96e19b74515faf49f0fb19043126b",
+  "files": 7576,
+  "bytes": 111181015,
+  "entriesPerLocale": 612
+}
