@@ -1,16 +1,16 @@
 {
+  "repository": "mandolin/HIA-Documentation",
+  "commit": "1cddf3fdd36f0594687b7994e9ec6d9142c4c8bc",
+  "tag": "css-api-1cddf3f",
+  "asset": "css-api-1cddf3f.tar.gz",
+  "gzipSha256": "cca93f086545b0c0387ad809ee1bf6225696c1bf11dc04597f12138cb9628ed0",
+  "tarSha256": "7a78834d9ec51cded0251a6fb8e9919711519adb4a8a148d6e7a0bb8968ccd19",
+  "tarBytes": 120115200,
+  "reportSha256": "db3d704b6d025e810684eb5857d79a95373648564456a61118368cd4bd456252",
+  "files": 7684,
+  "bytes": 114125336,
+  "entriesPerLocale": 622,
   "site": "css-api",
   "publicationRepository": "mandolin/HIA-Documentation-API-CSS",
-  "repository": "mandolin/HIA-Documentation",
-  "commit": "24bc65114e217669796ae6558ea2ca1352ddbcb6",
-  "registrySha256": "bca9ad4183f0b91f91c9851337fd69146c572edff9fba6baba0ea1f8c40b6be8",
-  "tag": "css-api-24bc651",
-  "asset": "css-api-24bc651.tar.gz",
-  "gzipSha256": "f4f78e4ec0a4d761f08c67a59def163e6d9279a5345df11cb44c908c21791fa7",
-  "tarSha256": "97a23cd15c2c19f79b7e7f369d59573ce788d250b884345cbf28704dddc9704b",
-  "tarBytes": 117094400,
-  "reportSha256": "beb148a997d872179cbac07e71a00d8421d96e19b74515faf49f0fb19043126b",
-  "files": 7576,
-  "bytes": 111181015,
-  "entriesPerLocale": 612
+  "registrySha256": "bca9ad4183f0b91f91c9851337fd69146c572edff9fba6baba0ea1f8c40b6be8"
 }
